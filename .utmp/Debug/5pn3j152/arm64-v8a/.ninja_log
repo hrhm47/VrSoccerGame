@@ -1,0 +1,12 @@
+# ninja log v5
+22	391	1755191394987682471	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	a0016ca1ec34aa22
+392	582	1755191395172053805	/Users/mac/Documents/MS_CSE/VR_Lavelle/SoccerMVr/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/5pn3j152/obj/arm64-v8a/libswappywrapper.so	93721b100dc603c0
+1	1084	1755191395679900662	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d1d9435dd9884b67
+12	1445	1755191396038795806	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	2d7ba38ba70d3ec4
+3	1545	1755191396141321538	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	416c7f8bfdccea8
+16	1560	1755191396157531741	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	5636559d3650dbe5
+1	1603	1755191396199189710	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9381437aefc11f14
+15	1606	1755191396201603632	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	9a38d98bdd7196fa
+6	1709	1755191396305823743	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	13a7adf917a5e19
+0	1783	1755191396379507576	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e3effc1fcca5d39e
+1783	1918	1755191396508178159	/Users/mac/Documents/MS_CSE/VR_Lavelle/SoccerMVr/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/5pn3j152/obj/arm64-v8a/libgame.so	eab603df358c19a5

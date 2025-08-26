@@ -1,0 +1,4 @@
+repository "SoccerMVr/SoccerMVr@5773764294890@cloud"
+  path "/"
+    br "/main"
+    co "/main"
